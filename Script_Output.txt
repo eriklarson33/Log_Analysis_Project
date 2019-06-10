@@ -1,4 +1,4 @@
-vagrant@vagrant:/vagrant/newsdata$ python newsdata_db.py
+vagrant@vagrant:/vagrant$ python newsdata_db-v3.py
 
 
 ------------------------------------
@@ -15,37 +15,7 @@ Anonymous Contributor - 170098 views
 Markoff Chaney - 84557 views
 
 
-Percent of requests returning with errors:
-July      01, 2016 - 33.35%
-July      02, 2016 - 23.38%
-July      03, 2016 - 23.53%
-July      04, 2016 - 23.51%
-July      05, 2016 - 23.65%
-July      06, 2016 - 23.57%
-July      07, 2016 - 23.58%
-July      08, 2016 - 23.43%
-July      09, 2016 - 23.37%
-July      10, 2016 - 23.69%
-July      11, 2016 - 23.69%
-July      12, 2016 - 23.54%
-July      13, 2016 - 23.39%
-July      14, 2016 - 23.39%
-July      15, 2016 - 23.49%
-July      16, 2016 - 23.69%
-July      17, 2016 - 23.09%
-July      18, 2016 - 23.22%
-July      19, 2016 - 23.32%
-July      20, 2016 - 23.66%
-July      21, 2016 - 23.37%
-July      22, 2016 - 23.38%
-July      23, 2016 - 23.51%
-July      24, 2016 - 23.43%
-July      25, 2016 - 23.64%
-July      26, 2016 - 23.74%
-July      27, 2016 - 23.69%
-July      28, 2016 - 23.56%
-July      29, 2016 - 23.49%
-July      30, 2016 - 23.44%
-July      31, 2016 - 28.16%
+Percent of requests returning with errors greater than 1%:
+Jul 17, 2016 - 2.26%
 ------------------------------------
-vagrant@vagrant:/vagrant/newsdata$
+vagrant@vagrant:/vagrant$ 
